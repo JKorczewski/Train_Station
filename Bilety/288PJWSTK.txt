@@ -1,0 +1,1 @@
+IdBiletu:288PJWSTK; Nazwa pociągu: Krakow Centralny ; Twoja ilosc miejsc: 400

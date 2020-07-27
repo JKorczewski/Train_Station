@@ -1,0 +1,2 @@
+IdBiletu:727PanTadeusz; Nazwa pociągu: Warszawa Centralny ; Twoje zarezerwowane miejsca: 1O; 2S
+Dodane miejsca: 3K; 4O; 6K
